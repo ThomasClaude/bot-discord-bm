@@ -1,0 +1,13 @@
+{
+  "name": "Discordbot",
+  "version": "1.0.0",
+  "description": "Bonjour Madame Discord Bot",
+  "main": "bot.js",
+  "author": "Thomas Claude",
+  "dependencies": {},
+  "devDependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "feed-read": "0.0.1",
+    "winston": "^3.2.1"
+  }
+}
